@@ -24,3 +24,4 @@ git init
 
 
 ## TESTEANDO EDIÇÃO DENTRO DO GITHUB
+## testendo edição dentro do VSCode do GitHub
